@@ -1,0 +1,7 @@
+C:\Users\vbutnaru\Desktop\linq-exercises-master_unresolved\LINQ.Exercises\LINQ.Exercises\bin\Debug\LINQ.Exercises.dll
+C:\Users\vbutnaru\Desktop\linq-exercises-master_unresolved\LINQ.Exercises\LINQ.Exercises\bin\Debug\LINQ.Exercises.pdb
+C:\Users\vbutnaru\Desktop\linq-exercises-master_unresolved\LINQ.Exercises\LINQ.Exercises\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\vbutnaru\Desktop\linq-exercises-master_unresolved\LINQ.Exercises\LINQ.Exercises\obj\Debug\LINQ.Exercises.csprojAssemblyReference.cache
+C:\Users\vbutnaru\Desktop\linq-exercises-master_unresolved\LINQ.Exercises\LINQ.Exercises\obj\Debug\LINQ.Exercises.csproj.CopyComplete
+C:\Users\vbutnaru\Desktop\linq-exercises-master_unresolved\LINQ.Exercises\LINQ.Exercises\obj\Debug\LINQ.Exercises.dll
+C:\Users\vbutnaru\Desktop\linq-exercises-master_unresolved\LINQ.Exercises\LINQ.Exercises\obj\Debug\LINQ.Exercises.pdb
